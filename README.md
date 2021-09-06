@@ -1,3 +1,16 @@
+# NPM
+
+# Node
+
+# Angular Study Notes
+
+## Components
+## Services
+## Forms
+## Routing
+## Server Communication
+
+
 # JavaScript Study Notes
 
 ## Collections 
